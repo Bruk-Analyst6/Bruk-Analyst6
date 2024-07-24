@@ -14,9 +14,9 @@ thrive on solving complex problems and making data-driven decisions.
   
 
 ## Skills
- - Data Analytics: Proficient in analyzing large datasets to extract meaningful insights.
- -Power BI: Skilled in creating interactive and visually appealing dashboards and reports.
-  <p align="left">
+### Language:
+Language|Python
+<p align="left">
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
   </a>
